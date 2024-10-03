@@ -1,5 +1,5 @@
 {
-  "name": "cypress-mochawesome-reporter",
+  "name": "cypress-mochawesome-linkfull",
   "version": "3.8.3",
   "description": "Zero config Mochawesome reporter for Cypress with screenshots",
   "engines": {
@@ -37,7 +37,7 @@
     "fs-extra": "^10.0.1",
     "mochawesome": "^7.1.3",
     "mochawesome-merge": "^4.2.1",
-    "mochawesome-report-generator": "^6.2.0"
+    "mochawesome-report-linkfull": "^6.2.0"
   },
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^19.2.0",
